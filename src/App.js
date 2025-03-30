@@ -60,6 +60,7 @@ import './App.css';
         <button id="equal" onClick={equal}>=</button>
         </div>
       </div>
+      <h3>Developed By @Swapnil Jamble 2025</h3>
     </>
   )
 }
